@@ -7,4 +7,4 @@ Soy un apasionado de la programación y me gusta aprender nuevas tecnologías y 
 - 👀 Me interesa el desarrollo web, la inteligencia artificial y la seguridad informática.
 - 🌱 Actualmente estoy aprendiendo React, Node.js con typeScript.
 - 💞️ Estoy buscando colaborar en proyectos que tengan un impacto positivo en la sociedad o que me ayuden a mejorar mis habilidades.
-- 📫 https://rafwel-iota.vercel.app.
+- 📫 https://rafael-iota.vercel.app.
